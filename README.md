@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## APP Router 
+- [Build A Simple CRUD API With Next.js 13 App Router (REST API)](https://www.youtube.com/watch?v=O-NGENb6LNg)
+- Info: Tried to copy but localhost:5000 is not working 
+
 ## Getting Started
 
 First, run the development server:
